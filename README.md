@@ -1,6 +1,8 @@
 ## My name Sarera
 
-    I'm beginner programmer
+    I'm Junior programmer
+    
+    
  
  
 ## My languages

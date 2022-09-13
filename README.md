@@ -14,6 +14,6 @@
 
 
 
-Статистика языков в репозиториях:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SareraBy&theme=solarized_dark)
 

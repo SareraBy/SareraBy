@@ -1,10 +1,10 @@
-## My name Sarera
+# My name Sarera
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I+am+a+junior+Web+programmer.)](https://github.com/SareraBy)
 
  
  
-## My languages
+# My languages
 
 
 
@@ -17,4 +17,4 @@
 
 
 
-# [LUA|JS|HTML|CSS]
+### [LUA|JS|HTML|CSS]

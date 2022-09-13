@@ -15,5 +15,6 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SareraBy&theme=solarized_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SareraBy)](https://github.com/anuraghazra/github-readme-stats)
+
 

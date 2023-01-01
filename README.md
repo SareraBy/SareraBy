@@ -1,6 +1,6 @@
 # My name Sarera
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%navy&lines=Hello,+I+am+a+Web+Developer.......)](https://github.com/SareraBy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%navy&lines=Hello,+I+am+a+Web+Dev.......)](https://github.com/SareraBy)
 
  
  

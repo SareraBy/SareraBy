@@ -12,6 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SareraBy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SareraBy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -25,4 +26,3 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%21461d59.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SareraBy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

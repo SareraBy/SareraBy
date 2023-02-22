@@ -4,7 +4,7 @@
 
  
  
-# My languages
+# My languages skills
 
 
 
